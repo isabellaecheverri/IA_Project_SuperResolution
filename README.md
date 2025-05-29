@@ -50,6 +50,6 @@ El notebook incluye visualizaciones comparativas entre imágenes originales (LR)
 
 El notebook muestra ejemplos claros de mejora visual en las imágenes procesadas, comparando la entrada (LR), la salida del modelo y la imagen HR original.
 
-## ✍️ Autor
+## ✍️ Autores
 
 Felipe Henao, Isabella Echeverry, Martin Ospina, Miguel Chacón.
