@@ -49,6 +49,9 @@ El notebook incluye visualizaciones comparativas entre imágenes originales (LR)
 ## Resultados
 
 El notebook muestra ejemplos claros de mejora visual en las imágenes procesadas, comparando la entrada (LR), la salida del modelo y la imagen HR original.
+![output](https://github.com/user-attachments/assets/7ed3c66e-170d-4aea-8fed-9e80a321f6cb)
+![output2](https://github.com/user-attachments/assets/a473849e-9b55-445f-9585-bee780521849)
+
 
 ## Autores
 
