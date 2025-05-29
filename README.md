@@ -2,11 +2,11 @@
 
 Este repositorio contiene un proyecto de super-resolución de imágenes utilizando modelos de aprendizaje profundo. Se enfoca en mejorar imágenes de videojuegos, transformándolas desde una baja resolución (LR) a una alta resolución (HR).
 
-## 📌 Descripción
+## Descripción
 
 La super-resolución es una técnica de visión por computadora que permite aumentar la calidad de imágenes de baja resolución. En este proyecto, se emplea un modelo de super-resolución basado en PyTorch y TorchSR sobre un dataset de imágenes LR-HR provenientes de videojuegos.
 
-## 🧪 Dataset
+## Dataset
 
 El dataset utilizado es **super-resolution-in-video-games** disponible en Kaggle. Contiene pares de imágenes de entrenamiento:
 
@@ -21,7 +21,7 @@ El dataset utilizado es **super-resolution-in-video-games** disponible en Kaggle
 ├── README.md                          # Este archivo
 ```
 
-## 🚀 Cómo usar este repositorio
+##Cómo usar este repositorio
 
 1. **Instala las dependencias**
 
@@ -41,15 +41,15 @@ jupyter notebook super-resolution-ai-project.ipynb
 
 El notebook incluye visualizaciones comparativas entre imágenes originales (LR), imágenes de alta resolución reales (HR) y las generadas por el modelo.
 
-## 🧠 Modelo utilizado
+## Modelo utilizado
 
 - **TorchSR**: Se utiliza un modelo de super-resolución preentrenado compatible con PyTorch.
 - **OpenCV y Matplotlib**: Para visualización de resultados.
 
-## 📊 Resultados
+## Resultados
 
 El notebook muestra ejemplos claros de mejora visual en las imágenes procesadas, comparando la entrada (LR), la salida del modelo y la imagen HR original.
 
-## ✍️ Autores
+## Autores
 
 Felipe Henao, Isabella Echeverry, Martin Ospina, Miguel Chacón.
