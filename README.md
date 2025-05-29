@@ -52,6 +52,8 @@ El notebook muestra ejemplos claros de mejora visual en las imágenes procesadas
 
 ![output](https://github.com/user-attachments/assets/7ed3c66e-170d-4aea-8fed-9e80a321f6cb)
 ![output2](https://github.com/user-attachments/assets/a473849e-9b55-445f-9585-bee780521849)
+![output3](https://github.com/user-attachments/assets/ffd84185-f60e-4ecc-8cf3-ee693cb94af4)
+
 
 
 ## Autores
